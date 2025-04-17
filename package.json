@@ -1,12 +1,14 @@
 {
-  "name": "kick-bot",
+  "name": "kick-bot-viewer",
   "version": "1.0.0",
-  "main": "index.js",  
+  "description": "A bot viewer for Kick using Puppeteer",
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js", 
-    "install": "npm install" 
+    "start": "node index.js"
   },
   "dependencies": {
-    "puppeteer": "^19.0.0" 
-  }
+    "puppeteer": "^19.0.0"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
 }

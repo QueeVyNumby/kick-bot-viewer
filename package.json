@@ -1,12 +1,12 @@
 {
   "name": "kick-bot",
   "version": "1.0.0",
-  "description": "Bot de visualizações Kick usando Puppeteer",
-  "main": "index.js",
+  "main": "index.js",  // Esse é o arquivo principal, onde o código dos bots está.
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js", // Inicia o bot, apontando para o index.js.
+    "install": "npm install" // Instala todas as dependências necessárias.
   },
   "dependencies": {
-    "puppeteer": "^21.3.8"
+    "puppeteer": "^19.0.0"  // Verifique se a versão do puppeteer está correta aqui.
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "kick-bot",
+  "name": "kick-bot-viewer",
   "version": "1.0.0",
   "description": "Kick view bot",
   "main": "index.js",

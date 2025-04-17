@@ -1,0 +1,12 @@
+{
+  "name": "kick-bot",
+  "version": "1.0.0",
+  "description": "Bot de visualizações Kick usando Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
